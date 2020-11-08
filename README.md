@@ -1,4 +1,4 @@
-# Lab3_part7
+# Pertemuan 7_lab3
 Repository ini dibuat untuk memenuhi tugas bahasa pemrograman pertemuan 7-lab3
 
 ***Nama : Miftahu Rizkiyah***
@@ -79,7 +79,9 @@ Demikian repository dari saya, semoga bisa bermanfaat dan memnuhi tugas saya sen
 <br>
 <br>
 
-
+### ***===== Miftahu Rizkiyah =====***
+### ***=====    312010014  =====***
+### ***===== TI.20.B.1    =====***
 
 
 
