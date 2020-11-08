@@ -70,6 +70,17 @@ Pada source code tersebut akan menghasilkan output sebagai berikut : <br>
 
 * Ket : <br>
 fungsi random() akan menghasilkan angka yang memiliki tipe data float dan berada pada rentang 0,0 hingga 1,0. Pada fungsi ini tidak perlu menambahkan argument. <br>
+uniform sendiri berfungsi untuk menampilkan bilangan float random dengan batas awal bilangan dan batas akhir.
+
+<br>
+Demikian repository dari saya, semoga bisa bermanfaat dan memnuhi tugas saya sendiri khusunya.
+
+
+<br>
+<br>
+
+
+
 
 
 
