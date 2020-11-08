@@ -40,7 +40,7 @@ Perulangan ***for*** disebut juga sebagai counted loop (perulangan yang terhitun
 **(Nested loop)** atau pengulangan bersarang dimana for yang juga berada didalam pernyataan (Perulangan didalam perulangan)
 
 Pada source code tersebut akan menghasilkan output :<br>
-![Output_Latihan1](pict/Output_latihan1.PNG)
+![Output_Latihan1](Pict/Output_latihan1.PNG)
 <br>
 <br>
 
@@ -48,7 +48,7 @@ Pada source code tersebut akan menghasilkan output :<br>
 * **Latihan2**
 
 Pada latihan 2 saya akan membuat program tampilan ***n*** bilangan acak yang lebih kecil dari 0.5. <br>
-![Tugas_latihan2](pict/Tugas_latihan2.PNG)
+![Tugas_latihan2](Pict/Tugas_latihan2.PNG)
 <br>
 
 Pada tugas tersebut saya menggunakan kombinasi ***(import random dan uniform)***, dengan source code sebagai berikut atau pada link [link_latihan2](lab3_latihan2.py) : <br>
@@ -65,7 +65,7 @@ print()
 ```
 
 Pada source code tersebut akan menghasilkan output sebagai berikut : <br>
-![Output_latihan2](pict/Output_latihan2.PNG)
+![Output_latihan2](Pict/Output_latihan2.PNG)
 <br>
 
 * Ket : <br>
